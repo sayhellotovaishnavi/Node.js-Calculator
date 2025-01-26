@@ -1,5 +1,5 @@
 # Project Title
-
+Hello all!
 This repository provides a hands-on environment for practicing DevOps and cloud activities. Follow the steps below to set up, run, and containerize the application.
 
 ---
